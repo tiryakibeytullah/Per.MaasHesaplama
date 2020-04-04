@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1543878930 source:c:\users\ilhan\desktop\proje1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1544467723 source:c:\users\ilhan\desktop\beyto\proje1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1545519493 source:c:\users\ilhan\desktop\beyto\proje1 - aytuð onan\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+
